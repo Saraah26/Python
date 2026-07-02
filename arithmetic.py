@@ -1,0 +1,10 @@
+a=5
+b=10
+Sum=a+b
+Diff=a-b
+Prod=a*b
+Quot=a/b
+print("Sum:",Sum)
+print("Difference:",Diff)
+print("Product:",Prod)
+print("Quotient:",Quot)
