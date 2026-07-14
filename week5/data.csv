@@ -1,0 +1,4 @@
+ Name, Age, Location
+Alice, 22, England
+Bob, 20, Paris
+Carol, 23, Londonthis line is appended at the end of file.

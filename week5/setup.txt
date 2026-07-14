@@ -1,0 +1,3 @@
+Line 1 = Hello this is a setup text file 
+Line 2 = Python makes it easy to manage files
+Line 3 = this is the last line of this file
